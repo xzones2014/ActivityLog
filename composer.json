@@ -8,6 +8,20 @@
 			"email": "me@codyjassman.com"
 		}
 	],
+	"repositories": {
+	    "activity-log": { 
+	      "type": "package",
+	      "package": {
+		"name": "xzones2014/activity-log", 
+		"version": "1.0",
+		"source": {
+		  "url": "https://github.com/xzones2014/ActivityLog.git", 
+		  "type": "git", 
+		  "reference": "origin/master"
+		}
+	      }
+	    }
+	  },
 	"require": {
 		"php": ">=5.4.0",
 		"laravel/framework": ">=5.2.0",
