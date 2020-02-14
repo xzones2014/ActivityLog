@@ -1,5 +1,5 @@
 {
-	"name": "regulus/activity-log",
+	"name": "xzones2014/activity-log",
 	"description": "A clean and simple Laravel 5 activity logger for monitoring user activity on a website or web application.",
 	"license": "MIT",
 	"authors": [
